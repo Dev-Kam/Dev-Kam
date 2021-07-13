@@ -7,6 +7,7 @@
     technologies: 'Web',
     frontend: [HTML, CSS, JavaScript, Sass, Tailwind],
     tools: ["Figma", "Canva", "Photoshop", "Git"],
+    others: ["Wordpress", "WooCommerce", "Elementor", "SEO"]
     speak: ["Spanish", "English"]
 }
 ```
